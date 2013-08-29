@@ -1,0 +1,26 @@
+{
+  "name": "oauthstream",
+  "version": "0.0.0",
+  "description": "streams from oauth",
+  "main": "lib/oauth.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "oauth": "~0.9.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "coffee test/test.coffee"
+  },
+  "keywords": [
+    "oauth",
+    "stream"
+  ],
+  "author": "Nick Desaulniers",
+  "license": "Beerware",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nickdesaulniers/oauthstream"
+  }
+}
