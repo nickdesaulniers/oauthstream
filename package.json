@@ -2,7 +2,7 @@
   "name": "oauthstream",
   "version": "0.0.0",
   "description": "streams from oauth",
-  "main": "lib/oauth.js",
+  "main": "lib/oauth_stream.js",
   "directories": {
     "test": "test"
   },
